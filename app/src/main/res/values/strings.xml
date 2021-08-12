@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sambuca Alert</string>
+    <string name="stop">STOP</string>
+    <string name="start">Start</string>
+</resources>
